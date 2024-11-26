@@ -27,12 +27,12 @@ theme:
 nav:
 #- Agenda: agenda.md
 - はじめに: index.md
-- Lab1 Hello world: lab1.md
-- Lab2 Generative AI: lab2_GenAI.md
-- Lab3 Skill flow: lab3.md
-- Lab4 Decision: lab4.md
-- Lab5 AI Assistant Builder: lab5_AIAssistant.md
+- Hello world: lab1.md
+- Generative AI: lab2_GenAI.md
+- Skill flow: lab3.md
+- AI Assistant Builder: lab5_AIAssistant.md
 - (オプション)OpenAPI Builder: OpenAPI.md
+- (オプション)Decision: lab4.md
 
 
 extra_css:
