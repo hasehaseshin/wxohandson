@@ -3,7 +3,7 @@
 watsonx Orchestrateのハンズオンのためのリポジトリです。
 [MkDocs](https://www.mkdocs.org/)と[material for MkDocs](https://squidfunk.github.io/mkdocs-material/)を使用しています。  
 ビルド、デプロイを行うためには上記ツールをインストールすることが必要です。編集だけならVSCodeがあれば十分です。  
-生成されたサイトは[https://pages.github.ibm.com/ba-techsales-jp/wxo_handson_jp](https://pages.github.ibm.com/ba-techsales-jp/wxo_handson_jp)にデプロイされます。
+生成されたサイトは[https://hasehaseshin.github.io/wxohandson/](https://hasehaseshin.github.io/wxohandson/)にデプロイされます。
 
 
 ## 環境構築
