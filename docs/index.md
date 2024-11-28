@@ -21,6 +21,7 @@ watsonx Orchestrateのハンズオンです。
  [https://dl.watson-orchestrate.ibm.com/](https://dl.watson-orchestrate.ibm.com/) 　　 
  2. IBM-idを用いてログイン可能であること。
  3. <a href="https://www.ibm.com/docs/ja/watsonx/watson-orchestrate/current?topic=team-roles-watsonx-orchestrate#builder" target="_blank" rel="noopener noreferrer">ビルダー</a>権限を有すること。
+ 4. このハンズオンは、日本語環境での実施を想定しています。管理者
 
 
 製品のマニュアルについては、<a href="https://www.ibm.com/docs/ja/watsonx/watson-orchestrate/current" target="_blank" rel="noopener noreferrer">こちら</a>をご参照ください。
