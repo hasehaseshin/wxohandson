@@ -5,10 +5,10 @@ watsonx Orchestrateのハンズオンです。
 
 |  #                         |                    内容                                         |時間(分)|
 |:---:                       |------------------------------------------------------------------|   :---:      |
-|watsonx Orchestrate概要|watsonx Orchestrateの概要について説明します。|13:00-13:25 |
-|[HelloWorld](lab1.md)  |watsonx Orchestrateへのアクセス方法を確認し、カスタム・スキルを構成します。 |13:25-13:50           |
-|[GenAI](lab2_GenAI.md)       |Automation Builderで生成AIのサービスを実装します。                      |13:50-14:15          |
-|休憩||14:15-14:30|
+|watsonx Orchestrate概要|watsonx Orchestrateの概要について説明します。|13:00-13:35 |
+|[HelloWorld](lab1.md)  |watsonx Orchestrateへのアクセス方法を確認し、カスタム・スキルを構成します。 |13:35-13:55           |
+|[GenAI](lab2_GenAI.md)       |Automation Builderで生成AIのサービスを実装します。                      |13:55-14:20          |
+|休憩||14:20-14:30|
 |[Skiil Flow](lab3.md)             |カスタム・スキルとプリビルド・スキルを組み合わせてスキルフローを作成します。    |14:30-15:00           |
 |[AIAssistant](lab5_AIAssistant.md) |AI Assistant Builderを用いてAI Assistant Builderを実装します。         |15:00-15:20         |
 |Discussion/Closing  |Q/Aおよびディスカッション。closing|15:20-15:55   |
